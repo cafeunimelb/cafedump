@@ -1,0 +1,111 @@
+{
+  "content": "social media captions until the links + \n\n**📣 attention to you event enthusiasts! for those who are interested... 📣**\nheyas <@&978532140197220422>s and <@&978532140197220422>s!! keep us posted if you wanna come early, lend a hand, or so! we will keep you posted with event schedule~",
+  "embeds": null,
+  "attachments": []
+}
+
+{
+  "content": "so here are the relevant links! can't wait to see you there 💖",
+  "embeds": [
+    {
+      "title": "eventbrite tickets here! a must have for any attendee~",
+      "description": "eventbrite link >>@https://www.eventbrite.com.au/e/390028223917",
+      "url": "https://www.eventbrite.com.au/e/390028223917",
+      "color": 16743985,
+      "fields": [
+        {
+          "name": "location",
+          "value": "Carte Crêpes \nunimelbs map ref https://go.unimelb.edu.au/5rcn"
+        },
+        {
+          "name": "UMSU tickets and event portal",
+          "value": "https://umsu.unimelb.edu.au/events/6493/1128/"
+        }
+      ],
+      "author": {
+        "name": "Eventbrite"
+      },
+      "footer": {
+        "text": "v1"
+      },
+      "timestamp": "2022-07-31T13:21:00.000Z",
+      "image": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F323484579%2F861045207523%2F1%2Foriginal.20220724-074605?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=72707bd833d223c65e37eb4922c0364e"
+      }
+    },
+    {
+      "title": "not yet a member of the club? join us to join our events~",
+      "description": "We're a club dedicated to learning about and appreciating coffee in all its forms. We hold meet-ups where you can catch up with fellow enthusiasts and enjoy the highest-quality brews on campus!\nThe link to our homepage can be found at >>@https://umsu.unimelb.edu.au/buddy-up/clubs/clubs-listing/join/cafe/",
+      "url": "https://umsu.unimelb.edu.au/buddy-up/clubs/clubs-listing/join/cafe/",
+      "color": 9896108,
+      "fields": [
+        {
+          "name": "Coffee Appreciation for Enthusiasts (CAFE) is...",
+          "value": "a society dedicated to the drinking of quality coffee, studying the brewing techniques, and spending time socialising, while providing access to cheap and quality coffee to its members!"
+        },
+        {
+          "name": "Membership perks~",
+          "value": "we have \n!! weekly themed events \n!! meeting new friends \n!! free cuppa ☕\nneed we say more?"
+        },
+        {
+          "name": "We also have an ongoing membership 10% off discount with:",
+          "value": "- Castro's Kiosk!\n- Scholar & Co.! \n- Home.two! <a:newnewnew:1003255458368344155>"
+        }
+      ],
+      "author": {
+        "name": "UMSU homepage"
+      },
+      "footer": {
+        "text": "v 1.2"
+      },
+      "timestamp": "2022-07-31T13:11:00.000Z",
+      "image": {
+        "url": "https://umsu.unimelb.edu.au/asset/Organisation/6493/d64fa4c0-7388-41cb-a127-3e9aeadc96d1.jpg"
+      }
+    },
+    {
+      "title": "wanna stay uptodate with us?",
+      "description": "the best place to catch up with us is at our [__**linktree**__](https://linktr.ee/unimelb_c.a.f.e)!!\n>>@[https://linktr.ee/unimelb_c.a.f.e](https://linktr.ee/unimelb_c.a.f.e)\nour gcal (errr idk if this is updated) is at our email! \n>>[cafemelb@gmail.com](mailto:cafemelb@gmail.com)",
+      "color": 7114625,
+      "fields": [
+        {
+          "name": "facebooks~",
+          "value": "[our main facebook page](https://www.facebook.com/cafeunimelb/)~ \n[our 2022 facebook group](https://www.facebook.com/groups/cafeunimelb2022crew)~"
+        },
+        {
+          "name": "instagrams~",
+          "value": "[our club insta](https://www.instagram.com/cafeunimelb/)~ \n[our fanart insta](https://www.instagram.com/cfb_adventures/)~"
+        },
+        {
+          "name": "rando links hahaha we don't really use these but...",
+          "value": "[tweeter](https://twitter.com/cafeunimelb)~\n[qpay homepage](https://cafeunimelb.com)~"
+        }
+      ],
+      "author": {
+        "name": "contacts and socmed"
+      },
+      "footer": {
+        "text": "v1.2"
+      },
+      "timestamp": "2022-08-01T02:47:00.000Z",
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/159624283520237568/953190464381677568/bean.png"
+      }
+    }
+  ],
+  "attachments": []
+}
+
+{
+  "content": "our discord events are currently all up to date <3\nfor those of you who enjoy discord events, find our event invite here~\n>> https://discord.gg/5yEQ2WKq?event=1000805961423913040",
+  "embeds": [
+    {
+      "color": null,
+      "footer": {
+        "text": "h v2 f v4"
+      },
+      "timestamp": "2022-08-06T16:00:00.000Z"
+    }
+  ],
+  "attachments": []
+}

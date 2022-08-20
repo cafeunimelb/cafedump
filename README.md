@@ -10,5 +10,5 @@ a<br>
 a<br>
 a<br>
 a<br>
-[b](#cafedump)
-[c](###table of contents) 
+[b](#cafedump)<br>
+[c](###table-of-contents) 

@@ -1,0 +1,135 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "2023 announcement template(?)",
+      "messages": [
+        {
+          "data": {
+            "content": "Hey hey you keen <@&866919941080219669>s out there!! <a:8_bear_roll:797960332449415179>\n\ndon't run... **WALK!*** <a:pixelheart_tea:1120593867511713842>\nthat's right \nfor week 2 this wekk, CAFE is going to\n<a:cbomw:1135170928242855997> **Professors WALK Cafe** <a:cbomw:1135170928242855997>\n_(*walking not mandatory, metaphorically for the punchline setup)_\n\n📆 When: 4th August 2023 11AM - 2PM\n📍 Where: Professors Walk Cafe @ Bailleu Library (BALULU)\n\nFriendly Reminder☕️‼️\n‼️Event is for members only!!\n‼️We will be enforcing membership checks at the event... probably \n‼️Coffees and foods are served on a first-come-first-serve basis\n\n**📣 attention to you event enthusiasts! for those who are interested... 📣**\nheyas <@&978532140197220422>s and <@&981398438719655986>s!! keep us posted if you wanna come early, lend a hand, or so! we will keep you posted with event schedule~\n\nso here are the relevant links! can't wait to see you there 💖",
+            "embeds": [
+              {
+                "title": "for any attendee~ attendance checkin is a must!",
+                "description": "TICKETS OUT NOW(?) AT >>@https://www.eventbrite.com.au/e/cafe-week-2-event-cafe-goes-to-professors-walk-tickets-687702034297",
+                "color": 16743985,
+                "fields": [
+                  {
+                    "name": "⚠️ IMPORTANT INFO 📣",
+                    "value": "👉 checks to determine membership to ensure fair allocation of provisions as well as validity of event ensured \n👉 attendance will be taken in adherence to covidsafe precautions and allow for contact tracing in the event of a positive case \n📢 ADMITTANCE INTO EVENT AND AVAILABILITY OF EVENT ENTITLEMENT WILL BE DEPENDENT ON VENUE CONSTRAINTS AND REMAINING PREPARED STOCK \ncheers"
+                  },
+                  {
+                    "name": "location",
+                    "value": "Professors Walk Cafe - Baillieu Library (Building 177) \nLevel: G\nfound @https://go.unimelb.edu.au/56vx (QR CODE)"
+                  },
+                  {
+                    "name": "UMSU homepage and event portal",
+                    "value": "found @https://umsu.unimelb.edu.au/events/6493/"
+                  }
+                ],
+                "author": {
+                  "name": "Eventbrite... or not"
+                },
+                "footer": {
+                  "text": "v1.1"
+                },
+                "timestamp": "2022-08-18T13:31:00.000Z",
+                "image": {
+                  "url": "https://cdn.discordapp.com/attachments/1000295330820132965/1135175057925210183/banner_gif.gif"
+                },
+                "thumbnail": {
+                  "url": "https://qr.unimelb.edu.au/go/56vx"
+                }
+              },
+              {
+                "title": "not yet a member of the club? join us to join our events~",
+                "description": "We're a club dedicated to learning about and appreciating coffee in all its forms. We hold meet-ups where you can catch up with fellow enthusiasts and enjoy the highest-quality brews on campus!\nThe link to our homepage can be found at >>@https://umsu.unimelb.edu.au/buddy-up/clubs/clubs-listing/join/cafe/",
+                "url": "https://umsu.unimelb.edu.au/buddy-up/clubs/clubs-listing/join/cafe/",
+                "color": 9896108,
+                "fields": [
+                  {
+                    "name": "Coffee Appreciation for Enthusiasts (CAFE) is...",
+                    "value": "a society dedicated to the drinking of quality coffee, studying the brewing techniques, and spending time socialising, while providing access to cheap and quality coffee to its members!"
+                  },
+                  {
+                    "name": "Membership perks~",
+                    "value": "we have \n!! weekly themed events \n!! meeting new friends \n!! free cuppa ☕\nneed we say more?"
+                  },
+                  {
+                    "name": "We also have an ongoing membership 10% off discount with:",
+                    "value": "- Castro's Kiosk!\n- Home.two! \n- The Studio Beans \n- Carte Crepes"
+                  },
+                  {
+                    "name": "And an ongoing WHOLE menu 15% off discount with:",
+                    "value": "- Lukumade's Carlton <a:newnewnew:1003255458368344155>"
+                  }
+                ],
+                "author": {
+                  "name": "UMSU homepage"
+                },
+                "footer": {
+                  "text": "v 1.3"
+                },
+                "timestamp": "2022-08-18T13:28:00.000Z",
+                "image": {
+                  "url": "https://umsu.unimelb.edu.au/asset/Organisation/6493/d64fa4c0-7388-41cb-a127-3e9aeadc96d1.jpg"
+                }
+              },
+              {
+                "title": "wanna stay uptodate with us?",
+                "description": "the best place to catch up with us is at our [__**linktree**__](https://linktr.ee/unimelb_c.a.f.e)!!\n>>@[https://linktr.ee/unimelb_c.a.f.e](https://linktr.ee/unimelb_c.a.f.e)\nour gcal (errr idk if this is updated) is at our email! \n>>[cafemelb@gmail.com](mailto:cafemelb@gmail.com)",
+                "color": 7114625,
+                "fields": [
+                  {
+                    "name": "facebooks~",
+                    "value": "[our main facebook page](https://www.facebook.com/cafeunimelb/)~ \n[our 2022 facebook group](https://www.facebook.com/groups/cafeunimelb2022crew)~"
+                  },
+                  {
+                    "name": "instagrams~",
+                    "value": "[our club insta](https://www.instagram.com/cafeunimelb/)~ \n[our fanart insta](https://www.instagram.com/cfb_adventures/)~"
+                  },
+                  {
+                    "name": "rando links hahaha we don't really use these but...",
+                    "value": "[TIKTOK](https://www.tiktok.com/@cafeunimelb)~ <a:newnewnew:1003255458368344155>\n[tweeter](https://twitter.com/cafeunimelb)~\n[qpay homepage](https://cafeunimelb.com)~"
+                  }
+                ],
+                "author": {
+                  "name": "contacts and socmed"
+                },
+                "footer": {
+                  "text": "v1.2"
+                },
+                "timestamp": "2022-08-01T02:47:00.000Z",
+                "image": {
+                  "url": "https://cdn.discordapp.com/attachments/159624283520237568/953190464381677568/bean.png"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": "EEEVENT LINKS!\nFIND OUR EVENTBRITE TICKET HERE- \n>> https://www.eventbrite.com.au/o/coffee-appreciation-for-enthusiasts-47024532543\nour discord events are currently all up to date <3\nfor those of you who enjoy discord events, find our event invite here~\n>> https://discord.gg/aPAukMQt?event=1009027391663906857",
+            "embeds": [
+              {
+                "color": null,
+                "footer": {
+                  "text": "h v2 f v4"
+                },
+                "timestamp": "2022-08-06T16:00:00.000Z"
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

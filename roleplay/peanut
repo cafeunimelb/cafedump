@@ -1,0 +1,36 @@
+{
+  "content": "hello @everyone\nas per request of our personal ~~meme generator~~ social media director\nthis is a message that you can react to for a **__pingable role__** for you to insert your valuable feedback when requested \nwoohoo\nbtw if you want to unsubscribe just hit the react button again to unreact \ncheers",
+  "embeds": [
+    {
+      "title": "link to original messages 🔗",
+      "url": "",
+      "color": 11463679,
+      "author": {
+        "name": "sofi",
+        "icon_url": "https://cdn.discordapp.com/avatars/693258628487970838/a_22ca85ab6eb80ad35deb77b33788be73.gif?size=160"
+      },
+      "timestamp": "2024-09-30T12:07:00.000Z"
+    },
+    {
+      "description": "@exec sorry kinda useless ping but",
+      "color": 5732226
+    },
+    {
+      "description": "could we have a role for people that are interested in giving opinions/taking a look at the possibilities for the post designs? <:sobby:976830705034215544>",
+      "color": 5732226
+    },
+    {
+      "description": "so that i can ping them when i need some opinions lololol",
+      "color": 5732226
+    }
+  ],
+  "attachments": []
+}
+
+```
+comment? comment. 
+instructions for discord
+/rolemenu create group:group A m:1290329789563015232 rr:True
+/react emoji:Mutual Server - dpepostare message:xyz
+real
+``` 

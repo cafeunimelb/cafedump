@@ -1,5 +1,11 @@
 # cafedump
 i wonder if i can store stuff here
+well i no wonder wonder 
+i came i saw i coded 
+not for resus 
+
+
+
 a<br>
 a<br>
 ### table of contents

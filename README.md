@@ -5,9 +5,9 @@ i came i saw i coded <br>
 not for resus <br>
 
 ## table of contents 
-discord webhook announcements @[helloworld](https://github.com/cafeunimelb/cafedump/tree/main/helloworld)
-role menu content @[roleplay](https://github.com/cafeunimelb/cafedump/tree/main/roleplay)
-misc stuff @[misc discohook stuff](https://github.com/cafeunimelb/cafedump/tree/main/misc%20discohook%20stuff)
+discord webhook announcements @[helloworld](https://github.com/cafeunimelb/cafedump/tree/main/helloworld) <br>
+role menu content @[roleplay](https://github.com/cafeunimelb/cafedump/tree/main/roleplay) <br>
+misc stuff @[misc discohook stuff](https://github.com/cafeunimelb/cafedump/tree/main/misc%20discohook%20stuff) <br>
 
 
 

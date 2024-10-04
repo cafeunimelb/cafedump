@@ -1,14 +1,19 @@
 # cafedump
-i wonder if i can store stuff here
-well i no wonder wonder 
-i came i saw i coded 
-not for resus 
+i wonder if i can store stuff here <br>
+well i no wonder wonder <br>
+i came i saw i coded <br>
+not for resus <br>
+
+## table of contents 
+discord webhook announcements @[helloworld](https://github.com/cafeunimelb/cafedump/tree/main/helloworld)
+role menu content @[roleplay](https://github.com/cafeunimelb/cafedump/tree/main/roleplay)
+misc stuff @[misc discohook stuff](https://github.com/cafeunimelb/cafedump/tree/main/misc%20discohook%20stuff)
 
 
 
 a<br>
 a<br>
-### table of contents
+### fake table of contents
 a<br>
 a<br>
 a<br>
